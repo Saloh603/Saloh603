@@ -1,122 +1,115 @@
-# Data Scientist Resume
+### <div align="center">I am Salahiddin 🤠. I have been doing data science since 2021. 🚀</div>  
+  
 
-![Profile Picture](profile_picture.png)
+- 🎓 I am currently deep learning Deep Learning.  
+  
 
-## Summary
+- ❓ If you ask me a question about data science, I will try to answer it as best as I can.  
+  
 
-Experienced Data Scientist with a passion for leveraging data to drive business insights and decision-making. Skilled in data analysis, machine learning, and data visualization. Adept at developing and deploying end-to-end data solutions. Proven track record of delivering actionable results through data-driven projects.
+- ⚡ Fun fact: Data scientists spend 80% of their time cleaning data and the other 20% complaining about it!  
+  
 
-## Contact Information
+<br/>  
 
-- **Name**: Your Name
-- **Email**: youremail@email.com
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub**: [GitHub Profile](https://github.com/yourusername)
 
-## Skills
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-- Data Analysis
-- Machine Learning
-- Data Visualization
-- Python
-- R
-- SQL
-- Data Cleaning
-- Statistical Analysis
-- Predictive Modeling
-- Deep Learning
-- Natural Language Processing
-- Big Data Technologies (e.g., Hadoop, Spark)
-- Data Engineering
-- A/B Testing
-- Data Storytelling
-- Cloud Computing (e.g., AWS, GCP)
-- Version Control (e.g., Git)
-- Data Pipelines
-- Feature Engineering
-- Time Series Analysis
-- Hyperparameter Tuning
-- Model Deployment
 
-## Education
 
-- **Degree**: Master of Science in Data Science
-  - **University**: Your University
-  - **Graduation Year**: 20XX
+### AI tools  
+<div align="center">  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
+<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
+<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
+</div>
 
-- **Degree**: Bachelor of Science in Computer Science
-  - **University**: Your University
-  - **Graduation Year**: 20XX
+</td><td valign="top" width="33%">
 
-## Work Experience
 
-### Senior Data Scientist
-**Company Name** - Location | Month Year - Present
 
-- Led a team of data scientists in developing predictive models for sales forecasting, resulting in a 15% increase in revenue.
-- Implemented an automated data pipeline to collect, clean, and process large datasets, reducing data preparation time by 40%.
-- Collaborated with cross-functional teams to design and execute A/B tests that improved the user engagement rate by 10%.
+### Backend  
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+</div>
 
-### Data Scientist
-**Company Name** - Location | Month Year - Month Year
+</td><td valign="top" width="33%">
 
-- Conducted exploratory data analysis (EDA) on customer behavior data, identifying key trends and patterns.
-- Built and deployed machine learning models for fraud detection, achieving a 95% accuracy rate.
-- Created interactive data visualizations using libraries such as Matplotlib, Seaborn, and Tableau to communicate insights effectively.
 
-### Junior Data Analyst
-**Company Name** - Location | Month Year - Month Year
 
-- Assisted in data cleaning and preparation tasks, ensuring high-quality datasets for analysis.
-- Developed and maintained SQL queries for data retrieval and reporting.
-- Supported the development of dashboard solutions for monitoring key performance indicators (KPIs).
+### DevOps  
+<div align="center">  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+</div>
 
-## Projects
+</td></tr></table>  
 
-### Project 1: Sales Forecasting
-- **Description**: Developed a time series forecasting model to predict sales for a retail client, resulting in a 12% reduction in inventory costs.
-- **Tools**: Python, Pandas, NumPy, ARIMA, Prophet
+<br/>  
 
-### Project 2: Customer Churn Prediction
-- **Description**: Built a machine learning model to identify potential churn among a telecom company's customers, leading to a 7% reduction in customer attrition.
-- **Tools**: Python, Scikit-Learn, XGBoost, ROC analysis
 
-### Project 3: NLP Sentiment Analysis
-- **Description**: Conducted sentiment analysis on social media data to assess customer sentiment, providing actionable insights for brand improvement.
-- **Tools**: Python, NLTK, TextBlob, Word Embeddings
+## Connect with me  
+<div align="center">
+<a href="https://github.com/Saloh603" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/@Salohiddin_dev" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/salohiddin-qayumov" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/salohiddindev" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@salohiddin-dev" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-## Certifications
+<br/>  
 
-- **Certification**: Certified Data Scientist (CDS)
-  - **Issuing Organization**: Data Science Certification Institute
-  - **Year Obtained**: 20XX
 
-- **Certification**: Machine Learning Specialist
-  - **Issuing Organization**: Machine Learning Academy
-  - **Year Obtained**: 20XX
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Saloh603&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-## Publications
+<br/>  
 
-- **Title**: Your Publication Title
-  - **Journal/Conference**: Journal of Data Science
-  - **Year**: 20XX
-  - **Link**: [Link to Publication](https://linktoyourpublication.com)
 
-## Languages
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
 
-- English (Fluent)
-- Spanish (Conversational)
+<br/>  
 
-## Interests
+  
 
-- Data Science
-- Machine Learning
-- Natural Language Processing
-- Data Ethics
-- Open Source
+<br/>  
 
-## References
+  
 
-Available upon request.
+<br/>  
 
-Feel free to use this template as a starting point for creating your Data Scientist's GitHub resume. Customize it with your own information, achievements, and experiences to showcase your skills and qualifications effectively. Include links to your GitHub repositories and any relevant project demos.
+<div align="center">
+            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
