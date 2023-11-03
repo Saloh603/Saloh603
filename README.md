@@ -4,7 +4,7 @@
 - 🎓 I am currently deep learning Deep Learning.  
   
 
-- ❓ If you ask me a question about data science, I will try to answer it as best as I can.  
+- ❓ If you ask me a question about data science, I will try my best to answer.  
   
 
 - ⚡ Fun fact: Data scientists spend 80% of their time cleaning data and the other 20% complaining about it!  
